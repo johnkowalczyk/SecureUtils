@@ -1,0 +1,2 @@
+[console_scripts]
+secureutils = secureutils.cli:main
